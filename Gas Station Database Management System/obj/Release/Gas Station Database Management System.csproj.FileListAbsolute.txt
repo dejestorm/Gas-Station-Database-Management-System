@@ -1,0 +1,9 @@
+C:\Users\King Esavon\Documents\Visual Studio 2015\Projects\Gas Station Database Management System\Gas Station Database Management System\bin\Release\Gas Station Database Management System.exe.config
+C:\Users\King Esavon\Documents\Visual Studio 2015\Projects\Gas Station Database Management System\Gas Station Database Management System\bin\Release\Gas Station Database Management System.exe
+C:\Users\King Esavon\Documents\Visual Studio 2015\Projects\Gas Station Database Management System\Gas Station Database Management System\bin\Release\Gas Station Database Management System.pdb
+C:\Users\King Esavon\Documents\Visual Studio 2015\Projects\Gas Station Database Management System\Gas Station Database Management System\obj\Release\Gas Station Database Management System.csprojResolveAssemblyReference.cache
+C:\Users\King Esavon\Documents\Visual Studio 2015\Projects\Gas Station Database Management System\Gas Station Database Management System\obj\Release\Gas_Station_Database_Management_System.Form1.resources
+C:\Users\King Esavon\Documents\Visual Studio 2015\Projects\Gas Station Database Management System\Gas Station Database Management System\obj\Release\Gas_Station_Database_Management_System.Properties.Resources.resources
+C:\Users\King Esavon\Documents\Visual Studio 2015\Projects\Gas Station Database Management System\Gas Station Database Management System\obj\Release\Gas Station Database Management System.csproj.GenerateResource.Cache
+C:\Users\King Esavon\Documents\Visual Studio 2015\Projects\Gas Station Database Management System\Gas Station Database Management System\obj\Release\Gas Station Database Management System.exe
+C:\Users\King Esavon\Documents\Visual Studio 2015\Projects\Gas Station Database Management System\Gas Station Database Management System\obj\Release\Gas Station Database Management System.pdb

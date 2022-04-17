@@ -1,0 +1,11 @@
+c:\users\king esavon\documents\visual studio 2015\Projects\Gas Station Database Management System\Gas Station Database Management System\bin\Debug\Gas Station Database Management System.exe.config
+c:\users\king esavon\documents\visual studio 2015\Projects\Gas Station Database Management System\Gas Station Database Management System\bin\Debug\Gas Station Database Management System.exe
+c:\users\king esavon\documents\visual studio 2015\Projects\Gas Station Database Management System\Gas Station Database Management System\bin\Debug\Gas Station Database Management System.pdb
+c:\users\king esavon\documents\visual studio 2015\Projects\Gas Station Database Management System\Gas Station Database Management System\obj\Debug\Gas Station Database Management System.csprojResolveAssemblyReference.cache
+c:\users\king esavon\documents\visual studio 2015\Projects\Gas Station Database Management System\Gas Station Database Management System\obj\Debug\Gas_Station_Database_Management_System.Form1.resources
+c:\users\king esavon\documents\visual studio 2015\Projects\Gas Station Database Management System\Gas Station Database Management System\obj\Debug\Gas_Station_Database_Management_System.Properties.Resources.resources
+c:\users\king esavon\documents\visual studio 2015\Projects\Gas Station Database Management System\Gas Station Database Management System\obj\Debug\Gas Station Database Management System.csproj.GenerateResource.Cache
+c:\users\king esavon\documents\visual studio 2015\Projects\Gas Station Database Management System\Gas Station Database Management System\obj\Debug\Gas Station Database Management System.exe
+c:\users\king esavon\documents\visual studio 2015\Projects\Gas Station Database Management System\Gas Station Database Management System\obj\Debug\Gas Station Database Management System.pdb
+D:\Study\Semister 4\Gas Station Management System\Gas Station Database Management System\Gas Station Database Management System\bin\Debug\Gas Station Database Management System.exe.config
+D:\Study\Semister 4\Gas Station Management System\Gas Station Database Management System\Gas Station Database Management System\obj\Debug\Gas Station Database Management System.pdb
